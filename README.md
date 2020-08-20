@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Nischal Mudennavar
-### I design Ideas 
+ I design Ideas 
 <!--
 **nischalmudennavar/nischalmudennavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
