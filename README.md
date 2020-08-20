@@ -1,5 +1,5 @@
 #### Hi there 👋
-##I am Nischal Mudennavar
+## I am Nischal Mudennavar
  I design Ideas 
 - 🔭 I’m currently working on ... MERN STACK 
 - 🌱 I’m currently learning ... UI/UX
