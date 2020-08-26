@@ -7,4 +7,3 @@
 - 💬 Ask me anything about ... Design
 - 📫 How to reach me: ...nischalmudennavar@gmail.com
 
-![readme_1](https://user-images.githubusercontent.com/50892658/91343268-e8649400-e7f9-11ea-8ba1-1b84b7528dc0.png)
