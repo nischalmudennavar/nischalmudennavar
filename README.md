@@ -1,3 +1,5 @@
+![Nischal Mudennavar](./nischalmudennavar.jpg)
+
 # Hi there 👋 I am Nischal Mudennavar
 ## I design iDeas !🌀
 
