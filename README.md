@@ -3,9 +3,9 @@
 # Hi there 👋 I am Nischal Mudennavar
 ## I design iDeas !🌀
 
-- 🔭 I’m currently working on ... MERN STACK 
-- ✍ I’m currently learning ... UI/UX
-- 🤔 I’m looking for help with ...Machine Learning and DataScience
-- 💬 Ask me anything about ... Design
-- 📫 How to reach me: ...nischalmudennavar@gmail.com
+- 🔭 I’m currently exploring... MERN STACK 
+- ✍ I’m currently learning... UI/UX and creative development
+- 👨🏻‍🎨 I am exploring complex animation js libraries too 
+- 💬 Ask me anything about... Complex Design Layout 
+- 📫 How to reach me:... nischalmudennavar@gmail.com
 
