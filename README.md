@@ -1,7 +1,7 @@
 ![Nischal Mudennavar](./nischalmudennavar.jpg)
 
 # Hi there 👋 I am Nischal Mudennavar
-### A Design Technologist at frog 🌀
+### A Design Technologist at frog 🐸
 
 - 🔭 I’m currently exploring... Generative AI and ML 
 - ✍ I’m currently learning... how to deal with LLMs and creating custom AIs 
