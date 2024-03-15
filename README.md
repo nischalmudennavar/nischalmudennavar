@@ -1,4 +1,4 @@
-![Nischal Mudennavar]("./NISCHAL MUDENNAVAR.png")
+![Nischal Mudennavar](./NISCHAL MUDENNAVAR.png)
 
 # Hi there 👋 I am Nischal Mudennavar
 ### A Design Technologist at frog 🐸
