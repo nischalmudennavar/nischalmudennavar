@@ -1,6 +1,6 @@
-![Nischal Mudennavar](./nischal_mudennavar.png)
+<img src="nischal_mudennavar.png" alt="nischal mudennavar" width="200"/>
 
-# Hi there 👋 I am Nischal Mudennavar
+
 ### A Design Technologist at frog 🐸
 
 - 🔭 I’m currently exploring... Generative AI and ML 
