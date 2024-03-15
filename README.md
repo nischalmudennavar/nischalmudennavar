@@ -1,4 +1,4 @@
-<img src="nischal_mudennavar.png" alt="nischal mudennavar" width="200"/>
+<img src="nischal_mudennavar.png" alt="nischal mudennavar" style="margin:auto" width="500"/>
 
 
 ### A Design Technologist at frog 🐸
