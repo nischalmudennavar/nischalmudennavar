@@ -1,4 +1,4 @@
-<img src="nischal.png" alt="nischal mudennavar"  width="500"/>
+<img src="nischalbg.png" alt="nischal mudennavar"  width="500"/>
 
 ```
 
